@@ -16,4 +16,4 @@ HTML + SCSS + JavaScript 기반 1차 메인 페이지.
 - 이메일과 GitHub 링크 추가
 - GitHub Pages 배포
 
-금융권 내부 코드와 비공개 화면, 개인정보를 그대로 공개하지 마세요.
+
