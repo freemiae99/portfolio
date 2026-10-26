@@ -499,9 +499,15 @@ h2 span {
   color: #f1f6ff;
 }
 
-
 .visual-kb {
   background-color: #f5d75a;
+  background-image: url("../images/kb-main.png");
+  color: #2d2b26;
+}
+
+.visual-upleat {
+  background-color: #91cff8;
+  background-image: url("../images/upleat-main.png");
   color: #2d2b26;
 }
 
