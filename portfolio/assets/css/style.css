@@ -480,18 +480,31 @@ h2 span {
   background-image: url("../images/nh-main.png");
   color: #223a20;
 }
+
+.visual-hana {
+  background-color: #d9e9e6;
+  background-image: url("../images/hana-main.png");
+  color: #155f58;
+}
+
+.visual-hana2 {
+   background-color: #d9e9e6;
+  background-image: url("../images/hana-main2.png");
+  color: #155f58;
+}
+
 .visual-shinhan {
   background-color: #192e62;
+  background-image: url("../images/shinhan-main.png");
   color: #f1f6ff;
 }
+
+
 .visual-kb {
   background-color: #f5d75a;
   color: #2d2b26;
 }
-.visual-hana {
-  background-color: #d9e9e6;
-  color: #155f58;
-}
+
 .project-info {
   display: flex;
   flex-direction: column;
